@@ -1,0 +1,45 @@
+  {
+    "OKUMADANGECME" : "Aşağıdaki tamamen boş bırakılan yerlere ID girin OKUDUKTAN SONRA burayı silebilirsiniz + Olarak emojileri ID olarak koymazsanız çalışmaz",
+    "OKUMADANGECME2" : "TOKEN .env kısmında TOKEN yazan yerin karşısına tokeninizi yapıstırınız.",
+
+    "sahip" : "289464872222064651",
+    "prefix" : ".",
+    "footer" : "Kahve Dunyasi",
+
+    "tag" : "",
+    "sembol" : " ",
+  
+    "yetkiliRol" : ["864909319698120745", "2. YOKSA BOŞ BIRAK", "3. YOKSA BOŞ BIRAK"],
+    "vipRol" : "840899018254843924",
+    "boosterRol" : "839058850564669502",
+    "kayıtsızRol" : "864909320864923678",
+    "erkekRol1" : "864909321510322226",
+    "erkekRol2" : "",
+    "kadınRol1" : "",
+    "kadınRol2" : "",
+
+    "sifirEmoji" : "855682983544356894",
+    "birEmoji" : "855682120542191656",
+    "ikiEmoji" : "855682122937139230",
+    "ucEmoji" : "855682122986422293",
+    "dortEmoji" : "855682119899414589",
+    "besEmoji" : "855682116498751488",
+    "altiEmoji" : "855682123981258752",
+    "yediEmoji" : "855682123222614037",
+    "sekizEmoji" : "855682125293682718",
+    "dokuzEmoji" : "855682123259969587",
+
+    "tagRol" : "855678172066611210",
+
+    "hosgeldinKanal" : "865459617197850644",
+    "hosgeldinMesajEmoji" : "865487320727945256",
+    "hosgeldinMesajYetkili": "864909319698120745",
+    "rulesKanal" : "865459862104571914",
+
+    "sohbetKanal" : "865459827986923541", 
+  
+    "botSesKanal" : "864943038349574175",
+  
+    "yes" : "865486943452921896",
+    "no" : "865486943143854100"
+}
